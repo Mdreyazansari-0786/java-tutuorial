@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1 d array declaration/1 d array declaration.iml" filepath="$PROJECT_DIR$/1 d array declaration/1 d array declaration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2d array declaration/2d array declaration.iml" filepath="$PROJECT_DIR$/2d array declaration/2d array declaration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3d array/3d array.iml" filepath="$PROJECT_DIR$/3d array/3d array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/Demo.iml" filepath="$PROJECT_DIR$/Demo/Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PRIME/PRIME.iml" filepath="$PROJECT_DIR$/PRIME/PRIME.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstract class/abstract class.iml" filepath="$PROJECT_DIR$/abstract class/abstract class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/armstrong/armstrong.iml" filepath="$PROJECT_DIR$/armstrong/armstrong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array length/array length.iml" filepath="$PROJECT_DIR$/array length/array length.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array sum of 5 float/array sum of 5 float.iml" filepath="$PROJECT_DIR$/array sum of 5 float/array sum of 5 float.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arthematic operation switch case/arthematic operation switch case.iml" filepath="$PROJECT_DIR$/arthematic operation switch case/arthematic operation switch case.iml" />
+      <module fileurl="file://$PROJECT_DIR$/average using function/average using function.iml" filepath="$PROJECT_DIR$/average using function/average using function.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binary search/binary search.iml" filepath="$PROJECT_DIR$/binary search/binary search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bit manupulation/bit manupulation.iml" filepath="$PROJECT_DIR$/bit manupulation/bit manupulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/both pattern triangle/both pattern triangle.iml" filepath="$PROJECT_DIR$/both pattern triangle/both pattern triangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bubble sort/bubble sort.iml" filepath="$PROJECT_DIR$/bubble sort/bubble sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculater/calculater.iml" filepath="$PROJECT_DIR$/calculater/calculater.iml" />
+      <module fileurl="file://$PROJECT_DIR$/class and object exa/class and object exa.iml" filepath="$PROJECT_DIR$/class and object exa/class and object exa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/constrator/constrator.iml" filepath="$PROJECT_DIR$/constrator/constrator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/delete a element from array/delete a element from array.iml" filepath="$PROJECT_DIR$/delete a element from array/delete a element from array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/delete element in array/delete element in array.iml" filepath="$PROJECT_DIR$/delete element in array/delete element in array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/experiment 5.6 abstract keyword implement/experiment 5.6 abstract keyword implement.iml" filepath="$PROJECT_DIR$/experiment 5.6 abstract keyword implement/experiment 5.6 abstract keyword implement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fact/fact.iml" filepath="$PROJECT_DIR$/fact/fact.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fact using recursion/fact using recursion.iml" filepath="$PROJECT_DIR$/fact using recursion/fact using recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/facto/facto.iml" filepath="$PROJECT_DIR$/facto/facto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/factorial using function/factorial using function.iml" filepath="$PROJECT_DIR$/factorial using function/factorial using function.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fibbo/fibbo.iml" filepath="$PROJECT_DIR$/fibbo/fibbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fibbo take input/fibbo take input.iml" filepath="$PROJECT_DIR$/fibbo take input/fibbo take input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/function add two number/function add two number.iml" filepath="$PROJECT_DIR$/function add two number/function add two number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gretest between two number/gretest between two number.iml" filepath="$PROJECT_DIR$/gretest between two number/gretest between two number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/how to count digit/how to count digit.iml" filepath="$PROJECT_DIR$/how to count digit/how to count digit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/insert an element/insert an element.iml" filepath="$PROJECT_DIR$/insert an element/insert an element.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java codes.iml" filepath="$PROJECT_DIR$/.idea/java codes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leap year/leap year.iml" filepath="$PROJECT_DIR$/leap year/leap year.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linear search for string/linear search for string.iml" filepath="$PROJECT_DIR$/linear search for string/linear search for string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linear search int/linear search int.iml" filepath="$PROJECT_DIR$/linear search int/linear search int.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maximum value in array/maximum value in array.iml" filepath="$PROJECT_DIR$/maximum value in array/maximum value in array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/merge array element into one array/merge array element into one array.iml" filepath="$PROJECT_DIR$/merge array element into one array/merge array element into one array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/natural number even sum/natural number even sum.iml" filepath="$PROJECT_DIR$/natural number even sum/natural number even sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/odd even/odd even.iml" filepath="$PROJECT_DIR$/odd even/odd even.iml" />
+      <module fileurl="file://$PROJECT_DIR$/palindrone number/palindrone number.iml" filepath="$PROJECT_DIR$/palindrone number/palindrone number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pattern/pattern.iml" filepath="$PROJECT_DIR$/pattern/pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pattern/pattern/pattern1.iml" filepath="$PROJECT_DIR$/pattern/pattern/pattern1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/practice.iml" filepath="$PROJECT_DIR$/practice/practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion/recursion.iml" filepath="$PROJECT_DIR$/recursion/recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/remove duplicate ele/remove duplicate ele.iml" filepath="$PROJECT_DIR$/remove duplicate ele/remove duplicate ele.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reverse a number/reverse a number.iml" filepath="$PROJECT_DIR$/reverse a number/reverse a number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reverse a string/reverse a string.iml" filepath="$PROJECT_DIR$/reverse a string/reverse a string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reverse a stringusing string builder/reverse a stringusing string builder.iml" filepath="$PROJECT_DIR$/reverse a stringusing string builder/reverse a stringusing string builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/selection sort/selection sort.iml" filepath="$PROJECT_DIR$/selection sort/selection sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple intrest/simple intrest.iml" filepath="$PROJECT_DIR$/simple intrest/simple intrest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/single digit number/single digit number.iml" filepath="$PROJECT_DIR$/single digit number/single digit number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sort/sort.iml" filepath="$PROJECT_DIR$/sort/sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/star pattern triangle/star pattern triangle.iml" filepath="$PROJECT_DIR$/star pattern triangle/star pattern triangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stringin java/stringin java.iml" filepath="$PROJECT_DIR$/stringin java/stringin java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strings builder/strings builder.iml" filepath="$PROJECT_DIR$/strings builder/strings builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sum of 3 number/sum of 3 number.iml" filepath="$PROJECT_DIR$/sum of 3 number/sum of 3 number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/switch case/switch case.iml" filepath="$PROJECT_DIR$/switch case/switch case.iml" />
+      <module fileurl="file://$PROJECT_DIR$/table/table.iml" filepath="$PROJECT_DIR$/table/table.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled1/untitled1.iml" filepath="$PROJECT_DIR$/untitled1/untitled1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled3/untitled3.iml" filepath="$PROJECT_DIR$/untitled3/untitled3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled5/untitled5.iml" filepath="$PROJECT_DIR$/untitled5/untitled5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled6/untitled6.iml" filepath="$PROJECT_DIR$/untitled6/untitled6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/website check/website check.iml" filepath="$PROJECT_DIR$/website check/website check.iml" />
+    </modules>
+  </component>
+</project>
